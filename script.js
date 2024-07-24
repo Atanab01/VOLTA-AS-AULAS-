@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Alterar a imagem ao clicar
     const image = document.querySelector('img');
     image.addEventListener('click', () => {
-        image.src = 'voltaaulas.jpg';
+        image.src = 'graxa veio.jpeg';
     });
 
     // Mostrar uma mensagem de boas-vindas com animação
